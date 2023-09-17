@@ -1,0 +1,23 @@
+/* .App {
+    text-align: center;
+}
+
+.map-wrap {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 77px);
+} */
+
+
+/* .map-container {
+    height: 400px;
+    width: 100%;
+} */
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
